@@ -15,10 +15,10 @@ Key product features:
 * Support for high-speed UARTS, reliable operation at 19.2kpbs using the stock serial board
 * Default mappings to support characters not on TRS-80 keyboard (e.g. underscore)
 * XMODEM/YMODEM file transfers
-* 
 
 
-  MayTerm is Copyright (c) 2015 Michael Maydaniuk
+
+MayTerm is Copyright (c) 2015 Michael Maydaniuk
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
